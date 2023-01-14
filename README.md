@@ -1,4 +1,4 @@
-# computer_networks
+# computer_networks and Linux
 
 ### Общие сведения:
 
